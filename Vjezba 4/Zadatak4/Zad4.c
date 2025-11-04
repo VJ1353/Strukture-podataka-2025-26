@@ -110,6 +110,10 @@ Member* multiply(Member* p1, Member* p2) {
 	return result;
 }
 
+Member* deleteList() {
+
+}
+
 
 
 int main() {
