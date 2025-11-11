@@ -19,6 +19,8 @@ int push(Position* head, double num) {
 	newEl->value = num;
 	newEl->next = *head;
 	*head = newEl;
+
+    return 0;
 }
 
 //Function for removing elements from the stack:
@@ -34,6 +36,8 @@ int pop(Position* first, Position* second) {
     *second = temp2->value;
     *first = temp2->next;
     free(temp2);
+
+    return 0;
 }
 
 //Function to get the result:
