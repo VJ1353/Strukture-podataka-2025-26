@@ -2,16 +2,17 @@
 #include <stdlib.h>
 
 //Struct member definition:
-typedef struct member {
+typedef struct _poly* Position;
+typedef struct _poly{
 	int koef;
 	int exp;
 	struct member *next;
-} Member;
+}Poly;
 
 
 //Memory allocation for a new member:
-Member* newMember(int koef, int exp) {
-	Member* newMem = (Member*)malloc(sizeof(Member));
+Position newPoly(int koef, int exp) {
+	Position* newMem = (Member*)malloc(sizeof(Member));
 	newMem->koef = koef;
 	newMem->exp = exp;
 	newMem->next = NULL;

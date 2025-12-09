@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba 4\\",
+  "WorkspaceRootPath": "C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFC19EDF-6A12-4298-B0E1-F7F82274A8F6}|Zadatak4\\Zadatak4.vcxproj|C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba 4\\Zadatak4\\Zad4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BFC19EDF-6A12-4298-B0E1-F7F82274A8F6}|Zadatak4\\Zadatak4.vcxproj|C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba4\\Zadatak4\\Zad4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BFC19EDF-6A12-4298-B0E1-F7F82274A8F6}|Zadatak4\\Zadatak4.vcxproj|solutionrelative:Zadatak4\\Zad4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Zad4.c",
-              "DocumentMoniker": "C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba 4\\Zadatak4\\Zad4.c",
+              "DocumentMoniker": "C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba4\\Zadatak4\\Zad4.c",
               "RelativeDocumentMoniker": "Zadatak4\\Zad4.c",
-              "ToolTip": "C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba 4\\Zadatak4\\Zad4.c",
+              "ToolTip": "C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba4\\Zadatak4\\Zad4.c",
               "RelativeToolTip": "Zadatak4\\Zad4.c",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-04T12:09:29.692Z",
               "EditorCaption": ""
