@@ -1,0 +1,41 @@
+﻿  Zad7.c
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(18,2): error C2061: syntax error: identifier 'Stack'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(20,1): error C2059: syntax error: '}'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(24,15): error C2143: syntax error: missing ')' before '*'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(24,15): error C2143: syntax error: missing '{' before '*'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(24,17): error C2059: syntax error: ','
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(24,29): error C2059: syntax error: ')'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(28,21): error C2143: syntax error: missing ')' before '*'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(28,21): error C2143: syntax error: missing '{' before '*'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(28,23): error C2059: syntax error: ')'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(28,24): error C2059: syntax error: ';'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(33,2): error C2065: 'Stack': undeclared identifier
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(33,9): error C2065: 's': undeclared identifier
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(33,7): error C2106: '=': left operand must be l-value
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(41,9): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(47,4): warning C4013: 'addDir' undefined; assuming extern returning int
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(47,11): error C2065: 's': undeclared identifier
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(55,5): warning C4013: 'push' undefined; assuming extern returning int
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(55,11): error C2065: 's': undeclared identifier
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(62,22): warning C4013: 'pop' undefined; assuming extern returning int
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(62,26): error C2065: 's': undeclared identifier
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(41,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(46,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(52,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(62,15): warning C4047: 'initializing': 'Directory *' differs in levels of indirection from 'int'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(86,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(112,3): warning C4033: 'listDir' must return a value
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(122,52): warning C4028: formal parameter 2 different from declaration
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(133,16): error C2143: syntax error: missing ')' before '*'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(133,16): error C2143: syntax error: missing '{' before '*'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(133,26): error C2371: 'Directory': redefinition; different basic types
+      C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(13,2):
+      see declaration of 'Directory'
+  
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(133,35): error C2143: syntax error: missing ';' before '*'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(133,40): error C2059: syntax error: ')'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(133,37): error C2054: expected '(' to follow 'dir'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(142,22): error C2143: syntax error: missing ')' before '*'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(142,22): error C2143: syntax error: missing '{' before '*'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(142,30): error C2059: syntax error: ')'
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba7\Vjezba7\Zad7.c(142,25): error C2054: expected '(' to follow 'level'

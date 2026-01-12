@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba8,9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACC0E9D-18D0-436B-86EA-0CC420F1B453}|Vjezba8,9\\Vjezba8,9.vcxproj|C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba8,9\\Vjezba8,9\\9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ACC0E9D-18D0-436B-86EA-0CC420F1B453}|Vjezba8,9\\Vjezba8,9.vcxproj|solutionrelative:Vjezba8,9\\9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACC0E9D-18D0-436B-86EA-0CC420F1B453}|Vjezba8,9\\Vjezba8,9.vcxproj|C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba8,9\\Vjezba8,9\\Zad 8||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4ACC0E9D-18D0-436B-86EA-0CC420F1B453}|Vjezba8,9\\Vjezba8,9.vcxproj|solutionrelative:Vjezba8,9\\Zad 8||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "9.c",
+              "DocumentMoniker": "C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba8,9\\Vjezba8,9\\9.c",
+              "RelativeDocumentMoniker": "Vjezba8,9\\9.c",
+              "ToolTip": "C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba8,9\\Vjezba8,9\\9.c",
+              "RelativeToolTip": "Vjezba8,9\\9.c",
+              "ViewState": "AgIAAKcAAAAAAAB4lmgVwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-16T18:53:59.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zad 8",
+              "DocumentMoniker": "C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba8,9\\Vjezba8,9\\Zad 8",
+              "RelativeDocumentMoniker": "Vjezba8,9\\Zad 8",
+              "ToolTip": "C:\\Users\\juris\\OneDrive\\Desktop\\Strukture podataka\\Vjezba8,9\\Vjezba8,9\\Zad 8",
+              "RelativeToolTip": "Vjezba8,9\\Zad 8",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-16T18:53:58.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
