@@ -1,0 +1,2 @@
+﻿Zad10.obj : error LNK2019: unresolved external symbol countryList referenced in function main
+C:\Users\juris\OneDrive\Desktop\Strukture podataka\Vjezba 10\ARM64\Debug\Vjezba 10.exe : fatal error LNK1120: 1 unresolved externals
